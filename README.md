@@ -51,6 +51,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [aioodbc](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
 * [motor](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
 * [asyncio-redis](https://github.com/jonathanslenders/asyncio-redis) - Redis client for Python asyncio (PEP 3156).
+* [aioredis](https://github.com/aio-libs/aioredis) - asyncio Redis client with pipelining and sentinel support.
 * [aiocouchdb](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio).
 * [aioes](https://github.com/aio-libs/aioes) - Asyncio compatible driver for elasticsearch.
 * [peewee-async](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee](https://github.com/coleifer/peewee) and aiopg.
@@ -82,6 +83,8 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 * [aiofiles](https://github.com/Tinche/aiofiles/) - File support for asyncio.
 * [aiodebug](https://github.com/qntln/aiodebug) - A tiny library for monitoring and testing asyncio programs.
+* [aiomonitor](https://github.com/aio-libs/aiomonitor) - adds monitor and python REPL capabilities for asyncio application.
+* [aiozipkin](https://github.com/aio-libs/aiozipkin) - Distributed tracing instrumentation for asyncio with zipkin
 
 ## Writings
 
